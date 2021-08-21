@@ -3,4 +3,4 @@ Just another repository
 
 Hi Humans!
 
-Here,I love Gypsophila!
+Here,I love MayDay!
